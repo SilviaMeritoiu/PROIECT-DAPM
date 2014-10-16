@@ -7,7 +7,7 @@ actuelle dans leur cuisine.
 
 * Lorsque l'utilisateur ouvre l'application , il affiche deux boutons :
 	1. "Cauta in toate retetele"
-	2. "Cauta in retetele de post"
+	2. "Cauta doar in retetele de post"
 
 * Apres avoir appuyé sur un bouton , l'application ira a la phase suivante , dans laquelle la liste des ingrédients s'affiche. 
   Chacune ingredient ont une case a cocher.
