@@ -1,0 +1,14 @@
+1. Primul view al aplicatiei noastre va avea 3 icon-uri, fiecare pentru cate o categorie(cocktailuri, mancare, prajituri).
+
+2.Atunci cand utilizatorul da click pe oricare dintre cele 3 iconuri, un nou view va aparea pe ecran. Acesta cuprinde o lista (ListView) de ingrediente predefinite pentru fiecare categorie de retete, care au in stanga lor un check-box. Utilizatorul bifeaza ingredientele de care dispune din acea lista. Totodata, va exista si un Search, cu ajutorul caruia utilizatorul introduce restul ingredientelor care nu apar in cele deja afisate. Dupa cautare, noile ingrediente vor aparea jos, in continuarea listei, si vor fi deja bifate. 
+
+3.Urmatorul pas este sa apese pe butonul cauta, ce se afla sub lista de ingrediente. La apasarea acestuia, aplicatia va afisa un mesaj: "Au fost gasite x retete cu ingredientele selectate", urmat de doua butoane "Adauga cantitati" sau "Vezi retetele gasite". 
+
+4.La apasarea butonului adauga cantitati, aplicatia va afisa lista de la pasul 2 cu ingredientele, insa, in loc de checkbox-ul din stanga, va avea de data aceasta un textbox in care utilizatorul sa introduca de la tastatura cantitatile de care dispune.
+
+5.Din nou apasa pe "Cauta", moment in care i se va afisa o lista cu retetele gasite.
+
+
+* Aplicatia dispune de un Action Bar cu functia de Back, in cazul in care utlizatorul doreste sa modifice informatiile introduse sau a apasat din greseala pe ceva.
+
+* Retetele vor fi stocate cu ajutorul unor Array-uri.
